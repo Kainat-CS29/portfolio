@@ -1,54 +1,55 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+# 🌐 Kainat Bibi – Portfolio Website  
 
-  <br />
-  <br />
+Welcome to my personal portfolio website! 🚀  
+This site highlights my projects, skills, certifications, and achievements in **Artificial Intelligence, Machine Learning, and Software Development**.  
 
-  <h2 align="center">Personal Portfolio Website</h2>
+You can view the live portfolio here: **[GitHub Pages Link – Add After Hosting]**
 
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+## ✨ About  
+I am **Kainat Bibi**, a Computer Science graduate, aspiring **Software Developer** and **AI/ML Enthusiast**.  
+My portfolio showcases academic projects, real-world applications, and technical achievements, reflecting my passion for building impactful solutions.  
 
-</div>
+---
 
-<br />
+## 🛠️ Features  
+- 🎯 Responsive & modern portfolio design (HTML, CSS, JavaScript)  
+- 🌙 Dark/Light theme ready  
+- 📌 Sections for About, Skills, Projects, Certifications, and Contact  
+- 📧 Integrated contact form (Formspree)  
+- 📂 Downloadable CV option  
 
-### Demo Screeshots
+---
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## 💼 Projects Highlighted  
+- **Lingua Call App** – Real-time voice call translation (React Native + AI)  
+- **Audio Classification (ANN)** – Detect & classify real-world sounds using TensorFlow  
+- **Real-Time Gender, Age & Emotion Detection** – Computer vision with CNN + OpenCV  
+- **Email Spam Classifier** – Machine learning with NLP & scikit-learn  
+- **Hand Gesture Controlled LEDs** – IoT + Computer Vision with Arduino  
 
-### Prerequisites
+*(More projects available in my repositories.)*  
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 🧑‍💻 Skills  
+- **Programming:** Python, React.js, React Native, HTML/CSS, MySQL  
+- **AI/ML/DL:** Machine Learning, Deep Learning, Computer Vision, NLP  
+- **Tools:** Git, GitHub, TensorFlow, Keras, OpenCV  
+- **Soft Skills:** Communication, Teamwork, Adaptability, Problem Solving  
 
-### Run Locally
+---
 
-To run **Portfolio** locally, run this command on your git bash:
+## 📜 License  
+© 2025 **Kainat Bibi**. All rights reserved.  
+This project is **not open source** and cannot be copied, modified, or reused without permission.  
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
-```
+## 📬 Contact  
+- 📧 Email: [kainatbibi2973@gmail.com](mailto:kainatbibi2973@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/kainat-basharat-20bb7b221](https://www.linkedin.com/in/kainat-basharat-20bb7b221/)  
+- 🐙 GitHub: [github.com/Kainat-CS29](https://github.com/Kainat-CS29)  
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+---
